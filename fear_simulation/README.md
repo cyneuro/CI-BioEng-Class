@@ -45,3 +45,11 @@ Note: the output file must be on your local machine (to which the micro:bit is c
 
 1. Apply a 0.2 nA current. What is the oscillation frequency? What emotional state can it correspond to?
 2. Apply a 1.0 nA current. What is the oscillation frequency? What emotional state can it correspond to?
+
+## To submit
+
+Submit a single Word document with:
+1. Answers to the questions in the **To do** section.
+2. Screenshots of the Terminal window showing the oscillation frequencies.
+
+Additionally, sumbit 2 short videos showcasing micro:bit flashing for the two cases. 
