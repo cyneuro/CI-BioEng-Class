@@ -13,6 +13,7 @@ conda activate fear_sim
 pip install neuron
 pip install bmtk
 ```
+**Note:** on Windows, instead of running `pip install neuron`, install it [from this link](https://www.neuron.yale.edu/neuron/download).
 
 If you want to flash output to the micro:bit, additionally install
 ```bash
