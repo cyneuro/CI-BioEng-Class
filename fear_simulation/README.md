@@ -39,6 +39,8 @@ to build the network.
 3. Run `python run_bionet.py config.json` to run the simulation. 
 4. Run `python check_output.py` to compute the oscillation frequency. The script will also try to flash the output onto the micro:bit.
 
+Note: the output file must be on your local machine (to which the micro:bit is connected) for flashing to work. If you are running the scripts on a remote machine (e.g., FABRIC), you might need an additional step to transfer the outputs to your local machine.
+
 ## To do
 
 1. Apply a 0.2 nA current. What is the oscillation frequency? What emotional state can it correspond to?
