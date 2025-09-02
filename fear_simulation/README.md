@@ -52,4 +52,4 @@ Submit a single Word document with:
 1. Answers to the questions in the **To do** section.
 2. Screenshots of the Terminal window showing the oscillation frequencies.
 
-Additionally, sumbit 2 short videos showcasing micro:bit flashing for the two cases. 
+Additionally, sumbit 2 short videos showcasing micro:bit flickering for the two cases. 
