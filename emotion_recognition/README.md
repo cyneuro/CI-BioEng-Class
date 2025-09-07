@@ -34,7 +34,7 @@ You are going to work with the dataset that contains EEG signals recorded from p
 
 Transform the notebook from Experiment 1 into a script that can run on a terminal-first machine (e.g., FABRIC). Train the network on a remote machine and compare the training time between local and remote.
 
-## To sumbit
+## To submit
 
 1. A Word document with answers to questions 1-2 from Experiment 1 and with time comparison from Experiment 2.
 2. A completed notebook from Experiment 1.
