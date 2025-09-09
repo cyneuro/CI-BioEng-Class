@@ -1,5 +1,8 @@
 # Emotion recognition using EEG and computer games (+micro:bit)
 
+> [!IMPORTANT]
+> You are expected to encounter errors when working on this project (e.g., problems with library installation, environment setup, pathing issues, bad connection to the micro:bit, etc.) These errors are a natural part of developing a CI workflow. Learning how to resolve these errors is a part of this project!
+
 ## Setup (for both local and remote)
 
 1. Create a new conda environment for this project (use `python=3.10`) and activate it.
