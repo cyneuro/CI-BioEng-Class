@@ -47,6 +47,8 @@ Note: the output file must be on your local machine (to which the micro:bit is c
 
 ## To do
 
+(in case of questions, use AI augmentation)
+
 1. Apply a 0.2 nA current. What is the oscillation frequency? What emotional state can it correspond to?
 2. Apply a 1.0 nA current. What is the oscillation frequency? What emotional state can it correspond to?
 
